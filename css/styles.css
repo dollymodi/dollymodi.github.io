@@ -11228,6 +11228,10 @@ textarea.form-control-lg {
   .text-xxl-center {
     text-align: center !important;
   }
+
+  .text-align-justify {
+    text-align: justify;
+  }
 }
 @media (min-width: 1200px) {
   .fs-1 {
